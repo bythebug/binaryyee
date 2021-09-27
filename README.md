@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Suraj (@binaryyee)
-- 👀 I’m interested in Software Development Roles
+- 👀 I’m interested in Software Development
 - 🌱 I’m currently learning JavaScript and CS Fundamentals
 - 💞️ I’m looking to collaborate on hackathons
 - 📫 How to reach me : linkedin/binaryyee
