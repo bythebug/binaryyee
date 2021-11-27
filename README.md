@@ -2,7 +2,7 @@
 
 I'm an **Software Engineer** with computer engineering background. I am mainly interested in **Web platforms** and **Blockchain**. Currently I work as a part time software engineer at **Turquoise** in Montreal (Remote). I enjoy and love open source software development and learning from others. My go-to programming languages for day to day tasks are **JavaScript** and **Python**.
 
-
+![me](https://github.com/binaryyee/binaryyee/master/giphy.gif)
 
 Feel free to:
 
