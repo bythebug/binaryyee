@@ -4,6 +4,8 @@ I'm an **Software Engineer** with computer engineering background. I am mainly i
 
 ![me](https://github.com/binaryyee/binaryyee/blob/38d81d558ada0cf2ef7beaf87baffc0e32049d98/giphy.gif)
 
+<img align="left" alt="efeharmankaya's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=binaryyee&layout=compact&exclude_repo=Comp376-3D-Mario" />
+
 Feel free to:
 
 - Read my blog posts at **https://medium.com/@binaryyee**
