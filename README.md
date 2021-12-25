@@ -1,10 +1,10 @@
 ## Hola! It's Said.
 
-I'm an **Software Engineer** with computer engineering background. I am mainly interested in **Web platforms** and **Blockchain**. Currently I work as a part time software engineer at **Turquoise** in Montreal (Remote). I enjoy and love open source software development and learning from others. My go-to programming languages for day to day tasks are **JavaScript** and **Python**.
+I'm a **Software Engineer** with computer engineering background. I am mainly interested in **Web platforms** and **Blockchain**. Currently I work as a part time software engineer at **Turquoise** in Montreal (Remote). I enjoy open source contribution. My go-to programming languages for day to day tasks are **JavaScript** and **Python**.
 
 ![me](https://github.com/binaryyee/binaryyee/blob/38d81d558ada0cf2ef7beaf87baffc0e32049d98/giphy.gif)
 
-<img align="left" alt="efeharmankaya's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=binaryyee&layout=compact&exclude_repo=Comp376-3D-Mario" />
+<img align="left" alt="efeharmankaya's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=binaryyee&layout=compact&exclude_repo=Comp376-3D-Mario" /> <br>
 
 Feel free to:
 
