@@ -4,7 +4,7 @@ I'm a **Software Engineer** with computer engineering background. I am mainly in
 
 ![me](https://github.com/binaryyee/binaryyee/blob/38d81d558ada0cf2ef7beaf87baffc0e32049d98/giphy.gif)
 
-<img align="left" alt="efeharmankaya's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=binaryyee&layout=compact&exclude_repo=Comp376-3D-Mario" /> <br>
+<img align="left" alt="efeharmankaya's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=binaryyee&layout=compact&exclude_repo=Comp376-3D-Mario" />
 
 Feel free to:
 
@@ -14,5 +14,5 @@ Feel free to:
 
 - View my background at **https://www.linkedin.com/in/binaryyee/**
 
-You can also view my open source projects below.
+You can also see few of my projects below.
 
